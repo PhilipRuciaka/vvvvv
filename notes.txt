@@ -1,4 +1,4 @@
-my sentence one
+my sentence one in conflicted branch
 my second sentence in notes
 my third line
 my fourth line
