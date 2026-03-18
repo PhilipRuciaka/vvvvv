@@ -3,3 +3,4 @@ my second sentence in notes
 my third line
 my fourth line
 my fifth line
+This was added to in features 1
